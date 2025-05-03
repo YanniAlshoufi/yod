@@ -1,3 +1,5 @@
+using System.Text.Json;
+
 namespace Yod.Lib;
 
 public static class Helpers
@@ -23,4 +25,6 @@ public static class Helpers
     {
         return condition ^ isInverted;
     }
+
+    public static readonly JsonSerializerOptions PrettyJsonSerializerOptions = new() { WriteIndented = true };
 }
