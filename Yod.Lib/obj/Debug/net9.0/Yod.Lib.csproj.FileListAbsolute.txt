@@ -1,0 +1,12 @@
+/home/yanni/LocalProjects/2025-05-03_yod_csharp/yod/Yod.Lib/bin/Debug/net9.0/Yod.Lib.deps.json
+/home/yanni/LocalProjects/2025-05-03_yod_csharp/yod/Yod.Lib/bin/Debug/net9.0/Yod.Lib.dll
+/home/yanni/LocalProjects/2025-05-03_yod_csharp/yod/Yod.Lib/bin/Debug/net9.0/Yod.Lib.pdb
+/home/yanni/LocalProjects/2025-05-03_yod_csharp/yod/Yod.Lib/obj/Debug/net9.0/Yod.Lib.GeneratedMSBuildEditorConfig.editorconfig
+/home/yanni/LocalProjects/2025-05-03_yod_csharp/yod/Yod.Lib/obj/Debug/net9.0/Yod.Lib.AssemblyInfoInputs.cache
+/home/yanni/LocalProjects/2025-05-03_yod_csharp/yod/Yod.Lib/obj/Debug/net9.0/Yod.Lib.AssemblyInfo.cs
+/home/yanni/LocalProjects/2025-05-03_yod_csharp/yod/Yod.Lib/obj/Debug/net9.0/Yod.Lib.csproj.CoreCompileInputs.cache
+/home/yanni/LocalProjects/2025-05-03_yod_csharp/yod/Yod.Lib/obj/Debug/net9.0/Yod.Lib.sourcelink.json
+/home/yanni/LocalProjects/2025-05-03_yod_csharp/yod/Yod.Lib/obj/Debug/net9.0/Yod.Lib.dll
+/home/yanni/LocalProjects/2025-05-03_yod_csharp/yod/Yod.Lib/obj/Debug/net9.0/refint/Yod.Lib.dll
+/home/yanni/LocalProjects/2025-05-03_yod_csharp/yod/Yod.Lib/obj/Debug/net9.0/Yod.Lib.pdb
+/home/yanni/LocalProjects/2025-05-03_yod_csharp/yod/Yod.Lib/obj/Debug/net9.0/ref/Yod.Lib.dll
